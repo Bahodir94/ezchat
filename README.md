@@ -1,6 +1,4 @@
-<img src="./Screenshots/mockup.png" width="100%">
-
-# EzChat App
+# EzChat
 
 Ushbu dastur anonim chat hisoblanadi. 
 
